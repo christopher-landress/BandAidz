@@ -1,0 +1,29 @@
+ * {
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-stretch: narrower;
+
+ }
+
+ img {
+     width: 50%;
+     height: auto;
+ }
+
+
+
+ .exercise {
+     width: 95%;
+     margin: auto;
+     height: auto;
+     border-radius: 10px;
+     border: 1px solid #3f3f3f;
+     margin-bottom: 16px;
+     padding: 10px;
+     background-color: #e1e1e1;
+ }
+
+ .exercise h2 {
+     color: #333333;
+     text-align: center;
+     text-decoration: underline;
+ }
